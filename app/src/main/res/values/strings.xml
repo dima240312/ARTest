@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ARTest</string>
+    <string name="title_activity_camera_view">CameraViewActivity</string>
+</resources>
